@@ -255,7 +255,7 @@
     { "line": "52", "direction": "ALL" },
     { "line": "52", "direction": "RET" },
     { "line": "52E", "direction": "ALL" },
-    { "line": "52E, "direction": "RET" }
+    { "line": "52E", "direction": "RET" }
   ],
   [
     { "line": "54", "direction": "ALL" },
